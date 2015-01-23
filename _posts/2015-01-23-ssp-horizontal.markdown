@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "ssp interactive horizontal"
-date:       2014-01-23 2:15:00
-author:     "Federico"
+title:      "I believe every human has a finite number of heartbeats. I don't intend to waste any of mine."
+date:       2014-09-18 12:00:00
+author:     "Start Bootstrap"
 header-img: "img/post-bg-05.jpg"
 ---
 
