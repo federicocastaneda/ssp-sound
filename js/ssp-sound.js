@@ -1,11 +1,10 @@
 $(document).ready(function(){
-var soundpath = window.location.origin+window.location.pathname + '/sounds/';
         ion.sound({
             sounds: [
                 {name: "beer_can_opening"},
                 {name: "bell_ring"}
             ],
-            path: (soundpath),
+            path: "http://federicocastaneda.github.io/ssp-sound/sounds/",
             preload: true,
             volume: 1.0
         });
