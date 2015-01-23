@@ -6,9 +6,7 @@ email: castanedafederico@gmail.com
 description: "ssp prototype"
 url: http://federicocastaneda.github.io/ssp-sound/
 baseurl: '/ssp-sound'
-twitter_username: fedcastaneda
-github_username:  federicocastaneda
-facebook_username:  federicocastaneda
+github_project: ssp-sound
 
 # Build settings
 markdown: kramdown
