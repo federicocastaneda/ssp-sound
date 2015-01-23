@@ -1,4 +1,5 @@
 ---
+published: true
 layout:     post
 title:      "ssp horizontal sound test"
 date:       2015-01-23 12:00:00
