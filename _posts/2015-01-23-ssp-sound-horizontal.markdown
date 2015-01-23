@@ -1,10 +1,6 @@
 ---
-published: true
----
-
----
 layout:     post
-title:      "I believe every human has a finite number of heartbeats. I don't intend to waste any of mine."
+title:      "ssp horizontal sound test"
 date:       2015-01-23 12:00:00
 author:     "federico"
 header-img: "img/post-bg-05.jpg"
