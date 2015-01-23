@@ -1,4 +1,5 @@
 # Site settings
+timezone: America/New_York
 title: ssp
 header-img: img/home-bg.jpg
 email: castanedafederico@gmail.com
