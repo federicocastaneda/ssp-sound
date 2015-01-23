@@ -1,11 +1,11 @@
 $(document).ready(function(){
-
+var soundpath = window.location.origin+window.location.pathname + '/sounds/';
         ion.sound({
             sounds: [
                 {name: "beer_can_opening"},
                 {name: "bell_ring"}
             ],
-            path: "http://127.0.0.1:4000/ssp-sound/sounds/",
+            path: (soundpath),
             preload: true,
             volume: 1.0
         });
