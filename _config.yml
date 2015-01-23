@@ -1,8 +1,8 @@
 # Site settings
-title: federico castaneda
+title: ssp
 header-img: img/home-bg.jpg
 email: castanedafederico@gmail.com
-description: "Federico Castaneda's blog and stuff. "
+description: "ssp prototype"
 url: http://federicocastaneda.github.io/ssp-sound/
 baseurl: '/ssp-sound'
 twitter_username: fedcastaneda
