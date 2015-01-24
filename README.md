@@ -17,12 +17,12 @@ Set github_project to the name of the project on github.
 In the YAML front matter add custom JS by including this between the triple dashed lines. The links to the JS will be output in the footer.
 
 customjs:
-\- /NAME-OF-YOUR-PROJECT/PATH-TO-FILE/file1.js
-\- /NAME-OF-YOUR-PROJECT/PATH-TO-FILE/file2.js
+*\- /NAME-OF-YOUR-PROJECT/PATH-TO-FILE/file1.js
+*\- /NAME-OF-YOUR-PROJECT/PATH-TO-FILE/file2.js
 
 
 To add custom CSS include this between the triple dashed lines. The links to the CSS will be output in the header.
 
 customcss:
-\- /NAME-OF-YOUR-PROJECT/PATH-TO-FILE/file1.css
-\- /NAME-OF-YOUR-PROJECT/PATH-TO-FILE/file2.css
+*\- /NAME-OF-YOUR-PROJECT/PATH-TO-FILE/file1.css
+*\- /NAME-OF-YOUR-PROJECT/PATH-TO-FILE/file2.css
