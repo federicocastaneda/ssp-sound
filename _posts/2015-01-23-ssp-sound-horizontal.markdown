@@ -4,6 +4,8 @@ layout:     post
 title:      "ssp horizontal sound test"
 date:       2015-01-23 12:00:00
 author:     "federico"
+customcss:
+ - /ssp-sound/css/ssp-sound.css
 customjs:
  - /ssp-sound/js/ion.sound.js
  - /ssp-sound/js/ssp-sound.js

@@ -3,6 +3,11 @@
 
 {% include head.html %}
 
+<!-- Custom CSS files set in YAML front matter -->
+{% for css in page.customcss %}
+<link rel="stylesheet" src="{{ css }}">
+{% endfor %}
+
 <body>
 
     {% include nav.html %}
