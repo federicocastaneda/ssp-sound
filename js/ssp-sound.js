@@ -15,8 +15,13 @@ $(document).ready(function(){
 
         ion.sound({
             sounds: [
-                {name: "car"},
-                {name: "laughing"}
+	            {name: "leaves"},
+	            {name: "stream"},
+	            {name: "conversation"},
+	            {name: "laughing"},
+	            {name: "car"},
+                {name: "truck"},
+                {name: "jet"}
             ],
             path: "http://federicocastaneda.github.io/ssp-sound/sounds/",
             preload: true,
