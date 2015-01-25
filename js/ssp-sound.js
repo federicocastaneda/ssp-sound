@@ -1,8 +1,8 @@
 $(document).ready(function(){
         ion.sound({
             sounds: [
-                {name: "beer_can_opening"},
-                {name: "bell_ring"}
+                {name: "car"},
+                {name: "laughing"}
             ],
             path: "http://federicocastaneda.github.io/ssp-sound/sounds/",
             preload: true,
@@ -10,10 +10,10 @@ $(document).ready(function(){
         });
 
         $("#b01").on("click", function(){
-            ion.sound.play("beer_can_opening");
+            ion.sound.play("car");
         });
         $("#b02").on("click", function(){
-            ion.sound.play("bell_ring");
+            ion.sound.play("laughing");
         });
 
     });

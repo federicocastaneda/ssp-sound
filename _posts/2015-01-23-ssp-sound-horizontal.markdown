@@ -13,7 +13,7 @@ customjs:
 
 <p>horizontal test</p>
 
-<div style="position: relative; padding: 100px;">
-    <button id="b01">Play "beer_can_opening"</button>
-    <button id="b02">Play "bell_ring"</button>
+<div class="">
+    <button id="b01">Play "car"</button>
+    <button id="b02">Play "laughing"</button>
 </div>
