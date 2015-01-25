@@ -9,10 +9,10 @@ $(document).ready(function(){
             volume: 1.0
         });
 
-        $("#b01").on("click", function(){
+        $(".b01").on("click", function(){
             ion.sound.play("car");
         });
-        $("#b02").on("click", function(){
+        $(".b02").on("click", function(){
             ion.sound.play("laughing");
         });
 

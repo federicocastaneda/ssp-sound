@@ -13,7 +13,7 @@ customjs:
 
 <p>horizontal test</p>
 
-<div class="">
-    <button id="b01">Play "car"</button>
-    <button id="b02">Play "laughing"</button>
+<div class="sound-feature">
+    <button id="b01" class="b01">Play "car"</button>
+    <button id="b02" class="b02">Play "laughing"</button>
 </div>
