@@ -85,6 +85,7 @@ $(document).ready(function(){
         $("#b04").on("click", function(e){
 	        ion.sound.stop();
             ion.sound.play("car");
+            e.preventDefault();
         });  
         $("#b05").on("click", function(e){
 	        ion.sound.stop();

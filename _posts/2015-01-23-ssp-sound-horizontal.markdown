@@ -10,9 +10,9 @@ author:     "federico"
 <p>width: 730px;</p>  
 
 
-<div class="sound-feature">
-
-<ul id="horizontal-s" class="sound-button-list">
+<div class="border-display">
+ <div class="sound-feature">
+  <ul id="horizontal-s" class="sound-button-list">
 	<li><a id="b00" class="sound-button" href="#">Rustling Leaves</a></li>
 	<li><a id="b01" class="sound-button" href="#">Stream Flowing</a></li>
 	<li><a id="b02" class="sound-button" href="#">Normal Conversation</a></li>
@@ -20,6 +20,6 @@ author:     "federico"
 	<li><a id="b04" class="sound-button" href="#">Car</a></li>
 	<li><a id="b05" class="sound-button" href="#">Truck</a></li>
 	<li><a id="b06" class="sound-button" href="#">Jet</a></li>
-</ul>
-    
+  </ul>
+ </div>
 </div>

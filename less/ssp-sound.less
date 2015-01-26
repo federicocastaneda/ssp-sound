@@ -1,17 +1,17 @@
 @import "variables.less";
 @import "mixins.less";
 
-/*
-.sound-feature {
-	display: block;
-	border: solid 1px red !important;
-	margin-bottom: 50px;
-	float: left;
-	height: 200px;
-	width: 730px;
-	clear: both;
+@media only screen and (min-width: 768px) {
+.border-display {
+	border: solid 1px blue;
+	max-width: 730px;
+	padding: 100px 0px;
+	display: flex;
+	justify-content: auto;
+	}
+
 }
-*/
+
 
 .sound-button-list {
 	padding: 0;
@@ -35,7 +35,7 @@
   border-right: none;
   max-width: 730px;
   width: 100%;
-  margin-bottom: 20px;
+  margin: auto;
 }
 
 .sound-feature #horizontal-s {
