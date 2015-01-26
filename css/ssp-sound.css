@@ -6,6 +6,11 @@
     display: flex;
     justify-content: auto;
   }
+  .border-display-slider {
+    border: solid 1px blue;
+    max-width: 730px;
+    padding: 100px 0px;
+  }
 }
 .sound-button-list {
   padding: 0;
@@ -67,4 +72,16 @@
     display: block;
     border-bottom: 1px solid #ccc;
   }
+}
+.ui-slider-horizontal {
+  height: 2px;
+}
+.ui-slider .ui-slider-handle {
+  width: 1px;
+}
+.ui-slider-float .ui-slider-tip {
+  width: 60px;
+}
+#audio-labels-slider .ui-slider-label {
+  font-size: 16px;
 }

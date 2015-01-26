@@ -8,5 +8,8 @@ author:     "federico"
 
 <p>horizontal test</p>
 
+<div class="border-display-slider">
 
 <div id="audio-labels-slider" class="sound-slider"></div>
+
+</div>

@@ -5,15 +5,19 @@
     <description>ssp prototype</description>
     <link>http://federicocastaneda.github.io/ssp-sound//ssp-sound/</link>
     <atom:link href="http://federicocastaneda.github.io/ssp-sound//ssp-sound/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Jan 2015 22:12:24 -0500</pubDate>
-    <lastBuildDate>Sun, 25 Jan 2015 22:12:24 -0500</lastBuildDate>
+    <pubDate>Sun, 25 Jan 2015 22:51:40 -0500</pubDate>
+    <lastBuildDate>Sun, 25 Jan 2015 22:51:40 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>ssp horizontal with tool tip</title>
         <description>&lt;p&gt;horizontal test&lt;/p&gt;
 
+&lt;div class=&quot;border-display-slider&quot;&gt;
+
 &lt;div id=&quot;audio-labels-slider&quot; class=&quot;sound-slider&quot;&gt;&lt;/div&gt;
+
+&lt;/div&gt;
 </description>
         <pubDate>Sun, 25 Jan 2015 07:00:00 -0500</pubDate>
         <link>http://federicocastaneda.github.io/ssp-sound//ssp-sound/2015/01/25/horizontal-tooltip/</link>
