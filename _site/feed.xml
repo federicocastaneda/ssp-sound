@@ -5,8 +5,8 @@
     <description>ssp prototype</description>
     <link>http://federicocastaneda.github.io/ssp-sound//ssp-sound/</link>
     <atom:link href="http://federicocastaneda.github.io/ssp-sound//ssp-sound/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Jan 2015 18:12:23 -0500</pubDate>
-    <lastBuildDate>Sun, 25 Jan 2015 18:12:23 -0500</lastBuildDate>
+    <pubDate>Sun, 25 Jan 2015 21:54:49 -0500</pubDate>
+    <lastBuildDate>Sun, 25 Jan 2015 21:54:49 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -36,10 +36,20 @@
       <item>
         <title>horizontal buttons</title>
         <description>&lt;p&gt;horizontal buttons test&lt;/p&gt;
+&lt;p&gt;width: 730px;&lt;/p&gt;
 
 &lt;div class=&quot;sound-feature&quot;&gt;
-    &lt;button id=&quot;b00&quot; class=&quot;b00&quot;&gt;Play &quot;car&quot;&lt;/button&gt;
-    &lt;button id=&quot;b01&quot; class=&quot;b01&quot;&gt;Play &quot;laughing&quot;&lt;/button&gt;
+
+&lt;ul id=&quot;horizontal-s&quot; class=&quot;sound-button-list&quot;&gt;
+	&lt;li&gt;&lt;a id=&quot;b00&quot; class=&quot;sound-button&quot; href=&quot;#&quot;&gt;Rustling Leaves&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a id=&quot;b01&quot; class=&quot;sound-button&quot; href=&quot;#&quot;&gt;Stream Flowing&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a id=&quot;b02&quot; class=&quot;sound-button&quot; href=&quot;#&quot;&gt;Normal Conversation&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a id=&quot;b03&quot; class=&quot;sound-button&quot; href=&quot;#&quot;&gt;Laughter&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a id=&quot;b04&quot; class=&quot;sound-button&quot; href=&quot;#&quot;&gt;Car&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a id=&quot;b05&quot; class=&quot;sound-button&quot; href=&quot;#&quot;&gt;Truck&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a id=&quot;b06&quot; class=&quot;sound-button&quot; href=&quot;#&quot;&gt;Jet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+    
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 23 Jan 2015 07:00:00 -0500</pubDate>

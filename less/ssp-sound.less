@@ -1,20 +1,89 @@
 @import "variables.less";
 @import "mixins.less";
 
+/*
 .sound-feature {
 	display: block;
-	border: solid 1px red;
+	border: solid 1px red !important;
 	margin-bottom: 50px;
 	float: left;
-	height: 100px;
+	height: 200px;
 	width: 730px;
 	clear: both;
 }
+*/
 
-.sound-horizontal {
+.sound-button-list {
+	padding: 0;
+				li {
+					a {
+						text-decoration: none;
+						font-size: 16px;
+					}
+				}
 	
 }
 
-.sound-vertical {
-	
+.sound-feature {
+  background: #f0f0f0;
+  border: 1px solid #ccc;
+  border-right: none;
+  max-width: 730px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.sound-feature #horizontal-s {
+  margin: 0;
+  padding: 0;
+}
+
+.sound-feature #horizontal-s li {
+  list-style: none;
+  text-align: center;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #ccc;
+}
+
+.sound-feature #horizontal-s li:first-child {
+  border-left: none;
+}
+
+.sound-feature #horizontal-s li a {
+  display: block;
+  text-decoration: none;
+  color: #616161;
+  padding: 10px 0;
+}
+
+.sound-feature {
+  display: table;
+  table-layout: fixed;
+}
+
+#horizontal-s {
+  display: flex;
+  flex-direction: row;
+}
+
+#horizontal-s li {
+	flex-grow: 1;
+}
+
+
+@media only screen and (max-width: 768px) {
+  
+  #horizontal-s {
+    display: block;
+  }
+
+  .sound-feature {
+    font-size: .8em;
+  }
+  
+  .sound-feature #horizontal-s li {
+    display: block;
+    border-bottom: 1px solid #ccc;
+  }
+
 }
