@@ -30,6 +30,7 @@
 }
 .feature-sound li a {
   text-decoration: none;
+  outline: 0;
 }
 .feature-wrapper {
   padding: 16px 12px;
