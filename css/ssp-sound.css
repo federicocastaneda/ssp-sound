@@ -34,17 +34,60 @@
 .feature-wrapper {
   padding: 16px 12px;
 }
+.sound-bar-div {
+  float: left;
+  margin-top: 20px;
+}
+.feature-sound-bar {
+  /*
+	position: relative;
+	left: 0px;
+	top: 0px;
+*/
+
+  max-width: 56px;
+  max-height: 473px;
+}
 .feature-sound-button-image {
+  cursor: pointer !important;
+  max-width: 50px;
+  max-height: 50px;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   -ms-transition: all 0.2s ease-in-out;
 }
-.feature-sound-img-transition {
-  -webkit-transform: scale(2);
-  -moz-transform: scale(2);
-  -o-transform: scale(2);
-  transform: scale(2);
+.feature-sound-button-transition {
+  cursor: pointer;
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.feature-sound-button {
+  display: block;
+  position: relative;
+}
+#b00 {
+  top: 134px;
+}
+#b01 {
+  top: 110px;
+}
+#b02 {
+  top: 100px;
+}
+#b03 {
+  top: 93px;
+}
+#b04 {
+  top: 87px;
+}
+#b05 {
+  top: 56px;
+}
+#b06 {
+  top: -3px;
 }
 @media only screen and (min-width: 768px) {
   .border-display {

@@ -102,10 +102,10 @@ $(document).ready(function(){
 
 		// enlarge button on hover
 		$('.feature-sound-button-image').hover(function() {
-        	$(this).addClass('feature-sound-img-transition');
+        	$(this).addClass('feature-sound-button-transition');
  
     		}, function() {
-			$(this).removeClass('feature-sound-img-transition');
+			$(this).removeClass('feature-sound-button-transition');
     	});
 
 
