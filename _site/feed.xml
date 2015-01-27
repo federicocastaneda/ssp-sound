@@ -5,8 +5,8 @@
     <description>ssp prototype</description>
     <link>http://federicocastaneda.github.io/ssp-sound//ssp-sound/</link>
     <atom:link href="http://federicocastaneda.github.io/ssp-sound//ssp-sound/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 27 Jan 2015 16:07:53 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Jan 2015 16:07:53 -0500</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2015 17:06:23 -0500</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2015 17:06:23 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -20,10 +20,9 @@
 &lt;div class=&quot;feature-sound&quot;&gt;
  &lt;div class=&quot;feature-wrapper&quot;&gt;
  	&lt;h1&gt;Listen up&lt;/h1&gt;
- 	&lt;p&gt;Natural and human-made noise comes in a variety of volumes.&lt;/p&gt;
- 	Here are some samples of sounds in their approximate decibel levels. Though the loudness will depend on the volume level of your speakers, the sounds are calibrated to each other.
+ 	&lt;p&gt;Natural and human-made noise comes in a variety of volumes. Here are some samples of sounds in their approximate decibel levels. Though the loudness will depend on the volume level of your speakers, the sounds are calibrated to each other.&lt;/p&gt;
  	
- 	&lt;p&gt;Tap icons to hear sound clips&lt;/p&gt;
+ 	&lt;p&gt;&lt;em&gt;Tap icons to hear sound clips&lt;/em&gt;&lt;/p&gt;
  
  
   &lt;ul class=&quot;feature-sound-list&quot;&gt;

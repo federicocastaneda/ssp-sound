@@ -1,21 +1,22 @@
-.feature-sound h1,
-.feature-sound h2,
-.feature-sound h3,
-.feature-sound h4,
-.feature-sound a,
-.feature-sound p,
-.feature-sound span {
+.feature-sound p {
   font-family: .Lato;
-  font-weight: normal;
-  font-style: normal;
+  margin: 5px 0px;
+  font-size: 14px;
+}
+.feature-sound h1 {
+  font-weight: 700;
+  color: #212939;
+  font-size: 30px;
+  line-height: 32px;
+  margin-top: 0px;
 }
 .feature-sound {
   float: right;
   max-width: 390px;
   background-color: #f6f6f6;
   border-color: #c64308;
-  border-top-width: 1px;
-  border-bottom-width: 1px;
+  border-top-width: 2px;
+  border-bottom-width: 2px;
   border-left-width: 0px;
   border-right-width: 0px;
   border-style: solid;
@@ -29,6 +30,9 @@
 }
 .feature-sound li a {
   text-decoration: none;
+}
+.feature-wrapper {
+  padding: 16px 12px;
 }
 .feature-sound-button-image {
   -webkit-transition: all 0.2s ease-in-out;

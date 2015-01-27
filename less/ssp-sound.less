@@ -2,16 +2,17 @@
 @import "mixins.less";
 
 .feature-sound {
-	h1,
-	h2,
-	h3,
-	h4,
-	a,
-	p,
-	span {
+	p {
 		font-family: .Lato;
-		font-weight: normal;
-		font-style: normal;
+		margin: 5px 0px;
+		font-size: 14px;
+	}
+	h1 {
+		font-weight: 700;
+		color: #212939;
+		font-size: 30px;
+		line-height: 32px;
+		margin-top: 0px;
 	}
 	
 }
@@ -23,8 +24,8 @@
 	max-width: 390px;
 	background-color: #f6f6f6;
 	border-color: #c64308;
-	border-top-width: 1px;
-	border-bottom-width: 1px;
+	border-top-width: 2px;
+	border-bottom-width: 2px;
 	border-left-width: 0px;
 	border-right-width: 0px;
 	border-style: solid;
@@ -38,6 +39,10 @@
 						text-decoration: none;
 					}
 			}
+}
+
+.feature-wrapper {
+	padding: 16px 12px;
 }
 
 .feature-sound-button-image {
