@@ -1,4 +1,9 @@
 .feature-sound {
+  font-family: Conv_Lato-Bla, Helvetica, Arial, Verdana, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+.feature-sound {
   float: right;
   max-width: 390px;
   background-color: #f6f6f6;
