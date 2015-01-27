@@ -1,3 +1,36 @@
+.feature-sound {
+  float: right;
+  max-width: 390px;
+  background-color: #f6f6f6;
+  border-color: #c64308;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-style: solid;
+}
+.feature-sound ul {
+  margin: 0px;
+  padding: 0px;
+}
+.feature-sound li {
+  list-style: none;
+}
+.feature-sound li a {
+  text-decoration: none;
+}
+.feature-sound-button-image {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+}
+.feature-sound-img-transition {
+  -webkit-transform: scale(2);
+  -moz-transform: scale(2);
+  -o-transform: scale(2);
+  transform: scale(2);
+}
 @media only screen and (min-width: 768px) {
   .border-display {
     border: solid 1px blue;

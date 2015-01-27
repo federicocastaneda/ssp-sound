@@ -100,38 +100,13 @@ $(document).ready(function(){
 
 
 
-function disableSliderTrack($slider){
-
-    $slider.bind("mousedown", function(event){
-
-        return isTouchInSliderHandle($(this), event);   
-
-    });
-
-    $slider.bind("touchstart", function(event){
-
-        return isTouchInSliderHandle($(this), event.originalEvent.touches[0]);
-
-    });
-}
-
-function isTouchInSliderHandle($slider, coords){
-
-    var x = coords.pageX;
-    var y = coords.pageY;
-
-    var $handle = $slider.find(".ui-slider-handle");
-
-    var left = $handle.offset().left;
-    var right = (left + $handle.outerWidth());
-    var top = $handle.offset().top;
-    var bottom = (top + $handle.outerHeight());
-
-    return (x >= left && x <= right && y >= top && y <= bottom);    
-}
-
-
-disableSliderTrack($(".ui-slider"));
+		// enlarge button on hover
+		$('.feature-sound-button-image').hover(function() {
+        	$(this).addClass('feature-sound-img-transition');
+ 
+    		}, function() {
+			$(this).removeClass('feature-sound-img-transition');
+    	});
 
 
 
