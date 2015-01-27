@@ -1,5 +1,11 @@
-.feature-sound {
-  font-family: Conv_Lato-Bla, Helvetica, Arial, Verdana, sans-serif;
+.feature-sound h1,
+.feature-sound h2,
+.feature-sound h3,
+.feature-sound h4,
+.feature-sound a,
+.feature-sound p,
+.feature-sound span {
+  font-family: .Lato;
   font-weight: normal;
   font-style: normal;
 }
