@@ -5,8 +5,8 @@
     <description>ssp prototype</description>
     <link>http://federicocastaneda.github.io/ssp-sound//ssp-sound/</link>
     <atom:link href="http://federicocastaneda.github.io/ssp-sound//ssp-sound/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 27 Jan 2015 18:36:33 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Jan 2015 18:36:33 -0500</lastBuildDate>
+    <pubDate>Wed, 28 Jan 2015 10:58:47 -0500</pubDate>
+    <lastBuildDate>Wed, 28 Jan 2015 10:58:47 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -24,16 +24,16 @@
  	
  	&lt;p&gt;&lt;em&gt;Tap icons to hear sound clips&lt;/em&gt;&lt;/p&gt;
  
-  &lt;div class=&quot;sound-bar-div&quot;&gt;&lt;img class=&quot;feature-sound-bar&quot; src=&quot;/ssp-sound/images/feature-sound-bar.png&quot; /&gt;&lt;/div&gt;
+  
  
   &lt;ul class=&quot;feature-sound-list&quot;&gt;
-	&lt;li&gt;&lt;a id=&quot;b06&quot; class=&quot;feature-sound-button&quot; href=&quot;#&quot;&gt;&lt;img class=&quot;feature-sound-jet feature-sound-button-image&quot; src=&quot;/ssp-sound/images/feature-sound-jet.png&quot; alt=&quot;Jet&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;a id=&quot;b05&quot; class=&quot;feature-sound-button&quot; href=&quot;#&quot;&gt;&lt;img class=&quot;feature-sound-truck feature-sound-button-image&quot; src=&quot;/ssp-sound/images/feature-sound-truck.png&quot; alt=&quot;Truck&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;a id=&quot;b04&quot; class=&quot;feature-sound-button&quot; href=&quot;#&quot;&gt;&lt;img class=&quot;feature-sound-car feature-sound-button-image&quot; src=&quot;/ssp-sound/images/feature-sound-car.png&quot; alt=&quot;Car&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;a id=&quot;b03&quot; class=&quot;feature-sound-button&quot; href=&quot;#&quot;&gt;&lt;img class=&quot;feature-sound-laughing feature-sound-button-image&quot; src=&quot;/ssp-sound/images/feature-sound-laughing.png&quot; alt=&quot;Laughter&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;a id=&quot;b02&quot; class=&quot;feature-sound-button&quot; href=&quot;#&quot;&gt;&lt;img class=&quot;feature-sound-bar feature-sound-button-image&quot; src=&quot;/ssp-sound/images/feature-sound-conversation.png&quot; alt=&quot;Conversation&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;a id=&quot;b01&quot; class=&quot;feature-sound-button&quot; href=&quot;#&quot;&gt;&lt;img class=&quot;feature-sound-stream feature-sound-button-image&quot; src=&quot;/ssp-sound/images/feature-sound-stream.png&quot; alt=&quot;Stream of Water&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;a id=&quot;b00&quot; class=&quot;feature-sound-button&quot; href=&quot;#&quot;&gt;&lt;img class=&quot;feature-sound-leaves feature-sound-button-image&quot; src=&quot;/ssp-sound/images/feature-sound-leaves.png&quot; alt=&quot;Rustling Leaves&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a id=&quot;b06&quot; class=&quot;feature-sound-button&quot; href=&quot;#&quot;&gt;&lt;img class=&quot;feature-sound-jet feature-sound-button-image&quot; src=&quot;/ssp-sound/images/feature-sound-jet.png&quot; alt=&quot;Jet&quot; /&gt;&lt;span class=&quot;sound-decibel&quot;&gt;103 dB&lt;/span&gt;&lt;span class=&quot;sound-description&quot;&gt;Jet flyover heard at 1,000 feet&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a id=&quot;b05&quot; class=&quot;feature-sound-button&quot; href=&quot;#&quot;&gt;&lt;img class=&quot;feature-sound-truck feature-sound-button-image&quot; src=&quot;/ssp-sound/images/feature-sound-truck.png&quot; alt=&quot;Truck&quot; /&gt;&lt;span class=&quot;sound-decibel&quot;&gt;84 dB&lt;/span&gt;&lt;span class=&quot;sound-description&quot;&gt;Diesel truck going 45 mph heard 50 ft away&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a id=&quot;b04&quot; class=&quot;feature-sound-button&quot; href=&quot;#&quot;&gt;&lt;img class=&quot;feature-sound-car feature-sound-button-image&quot; src=&quot;/ssp-sound/images/feature-sound-car.png&quot; alt=&quot;Car&quot; /&gt;&lt;span class=&quot;sound-decibel&quot;&gt;70 dB&lt;/span&gt;&lt;span class=&quot;sound-description&quot;&gt;Car going 65 mph heard 25 feet away&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a id=&quot;b03&quot; class=&quot;feature-sound-button&quot; href=&quot;#&quot;&gt;&lt;img class=&quot;feature-sound-laughing feature-sound-button-image&quot; src=&quot;/ssp-sound/images/feature-sound-laughing.png&quot; alt=&quot;Laughter&quot; /&gt;&lt;span class=&quot;sound-decibel&quot;&gt;60 dB&lt;/span&gt;&lt;span class=&quot;sound-description&quot;&gt;Laughter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a id=&quot;b02&quot; class=&quot;feature-sound-button&quot; href=&quot;#&quot;&gt;&lt;img class=&quot;feature-sound-bar feature-sound-button-image&quot; src=&quot;/ssp-sound/images/feature-sound-conversation.png&quot; alt=&quot;Conversation&quot; /&gt;&lt;span class=&quot;sound-decibel&quot;&gt;50 dB&lt;/span&gt;&lt;span class=&quot;sound-description&quot;&gt;Normal Conversation&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a id=&quot;b01&quot; class=&quot;feature-sound-button&quot; href=&quot;#&quot;&gt;&lt;img class=&quot;feature-sound-stream feature-sound-button-image&quot; src=&quot;/ssp-sound/images/feature-sound-stream.png&quot; alt=&quot;Stream of Water&quot; /&gt;&lt;span class=&quot;sound-decibel&quot;&gt;40 dB&lt;/span&gt;&lt;span class=&quot;sound-description&quot;&gt;Stream flowing&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a id=&quot;b00&quot; class=&quot;feature-sound-button&quot; href=&quot;#&quot;&gt;&lt;img class=&quot;feature-sound-leaves feature-sound-button-image&quot; src=&quot;/ssp-sound/images/feature-sound-leaves.png&quot; alt=&quot;Rustling Leaves&quot; /&gt;&lt;span class=&quot;sound-decibel&quot;&gt;27 dB&lt;/span&gt;&lt;span class=&quot;sound-description&quot;&gt;Rustling leaves&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
  &lt;/div&gt;
 &lt;/div&gt;

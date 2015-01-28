@@ -21,7 +21,10 @@
 
 .feature-sound {
 	float: right;
+	background: url("../images/feature-sound-bar.png") 25px 220px scroll no-repeat;
+	background-size: 56px 473px;
 	max-width: 390px;
+	min-height: 715px;
 	background-color: #f6f6f6;
 	border-color: #c64308;
 	border-top-width: 2px;
@@ -31,10 +34,14 @@
 	border-style: solid;
 		ul {
 			margin: 0px;
-			padding: 0px;
+			padding-top: 0px;
+			padding-right: 0px;
+			padding-bottom: 0px;
+			padding-left: 65px;
 		}
 			li {
 				list-style: none;
+				clear: both;
 					a {
 						text-decoration: none;
 						outline: 0;
@@ -47,21 +54,19 @@
 }
 
 .sound-bar-div {
-	float: left;
-	margin-top: 20px;
+	// float: left;
+	margin-top: 35px;
+	position: absolute;
 }
 
 .feature-sound-bar {
-/*
-	position: relative;
-	left: 0px;
-	top: 0px;
-*/
 	max-width: 56px;	
 	max-height: 473px;
 }
 
 .feature-sound-button-image {
+	float: left;
+	margin-right: 10px;
 	cursor: pointer !important;
 	max-width: 50px;
 	max-height: 50px;
@@ -85,31 +90,44 @@
 }
 
 #b00 {
-	top: 134px;
+	top: 113px;
 }
 
 #b01 {
-	top: 110px;
+	top: 89px;
 }
 
 #b02 {
-	top: 100px;
+	top: 81px;
 }
 
 #b03 {
-	top: 93px;
+	top: 75px;
 }
 
 #b04 {
-	top: 87px;
+	top: 79px;
 }
 
 #b05 {
-	top: 56px;
+	top: 71px;
 }
 
 #b06 {
-	top: -3px;
+	top: 12px;
+}
+
+span.sound-decibel {
+	font-weight: 900;
+	font-size: 18px;
+	color: #005495;
+	display: block;
+}
+
+span.sound-description {
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 21px;
 }
 
 

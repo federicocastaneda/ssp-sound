@@ -19,16 +19,16 @@ Fusce eget libero urna. Nullam venenatis eget ligula vel scelerisque. Ut tristiq
  	
  	<p><em>Tap icons to hear sound clips</em></p>
  
-  <div class="sound-bar-div"><img class="feature-sound-bar" src="/ssp-sound/images/feature-sound-bar.png" /></div>
+  
  
   <ul class="feature-sound-list">
-	<li><a id="b06" class="feature-sound-button" href="#"><img class="feature-sound-jet feature-sound-button-image" src="/ssp-sound/images/feature-sound-jet.png" alt="Jet"/></a></li>
-	<li><a id="b05" class="feature-sound-button" href="#"><img class="feature-sound-truck feature-sound-button-image" src="/ssp-sound/images/feature-sound-truck.png" alt="Truck"/></a></li>
-	<li><a id="b04" class="feature-sound-button" href="#"><img class="feature-sound-car feature-sound-button-image" src="/ssp-sound/images/feature-sound-car.png" alt="Car"/></a></li>
-	<li><a id="b03" class="feature-sound-button" href="#"><img class="feature-sound-laughing feature-sound-button-image" src="/ssp-sound/images/feature-sound-laughing.png" alt="Laughter" /></a></li>
-	<li><a id="b02" class="feature-sound-button" href="#"><img class="feature-sound-bar feature-sound-button-image" src="/ssp-sound/images/feature-sound-conversation.png" alt="Conversation"/></a></li>
-	<li><a id="b01" class="feature-sound-button" href="#"><img class="feature-sound-stream feature-sound-button-image" src="/ssp-sound/images/feature-sound-stream.png" alt="Stream of Water"/></a></li>
-	<li><a id="b00" class="feature-sound-button" href="#"><img class="feature-sound-leaves feature-sound-button-image" src="/ssp-sound/images/feature-sound-leaves.png" alt="Rustling Leaves"/></a></li>
+	<li><a id="b06" class="feature-sound-button" href="#"><img class="feature-sound-jet feature-sound-button-image" src="/ssp-sound/images/feature-sound-jet.png" alt="Jet"/><span class="sound-decibel">103 dB</span><span class="sound-description">Jet flyover heard at 1,000 feet</span></a></li>
+	<li><a id="b05" class="feature-sound-button" href="#"><img class="feature-sound-truck feature-sound-button-image" src="/ssp-sound/images/feature-sound-truck.png" alt="Truck"/><span class="sound-decibel">84 dB</span><span class="sound-description">Diesel truck going 45 mph heard 50 ft away</span></a></li>
+	<li><a id="b04" class="feature-sound-button" href="#"><img class="feature-sound-car feature-sound-button-image" src="/ssp-sound/images/feature-sound-car.png" alt="Car"/><span class="sound-decibel">70 dB</span><span class="sound-description">Car going 65 mph heard 25 feet away</span></a></li>
+	<li><a id="b03" class="feature-sound-button" href="#"><img class="feature-sound-laughing feature-sound-button-image" src="/ssp-sound/images/feature-sound-laughing.png" alt="Laughter" /><span class="sound-decibel">60 dB</span><span class="sound-description">Laughter</span></a></li>
+	<li><a id="b02" class="feature-sound-button" href="#"><img class="feature-sound-bar feature-sound-button-image" src="/ssp-sound/images/feature-sound-conversation.png" alt="Conversation"/><span class="sound-decibel">50 dB</span><span class="sound-description">Normal Conversation</span></a></li>
+	<li><a id="b01" class="feature-sound-button" href="#"><img class="feature-sound-stream feature-sound-button-image" src="/ssp-sound/images/feature-sound-stream.png" alt="Stream of Water"/><span class="sound-decibel">40 dB</span><span class="sound-description">Stream flowing</span></a></li>
+	<li><a id="b00" class="feature-sound-button" href="#"><img class="feature-sound-leaves feature-sound-button-image" src="/ssp-sound/images/feature-sound-leaves.png" alt="Rustling Leaves"/><span class="sound-decibel">27 dB</span><span class="sound-description">Rustling leaves</span></a></li>
   </ul>
  </div>
 </div>
