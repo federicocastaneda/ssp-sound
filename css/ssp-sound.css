@@ -73,6 +73,19 @@
   -o-transform: scale(1.2);
   transform: scale(1.2);
 }
+span.sound-decibel {
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 18px;
+  padding-top: 5px;
+  color: #005495;
+  display: block;
+}
+span.sound-description {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 18px;
+}
 .feature-sound-button {
   display: block;
   position: relative;
@@ -126,18 +139,40 @@
   width: 40%;
   float: left;
 }
-span.sound-decibel {
-  font-weight: 900;
-  font-size: 18px;
-  line-height: 18px;
-  padding-top: 5px;
-  color: #005495;
-  display: block;
-}
-span.sound-description {
-  font-weight: 300;
-  font-size: 16px;
-  line-height: 18px;
+@media only screen and (max-width: 407px) {
+  #b00 {
+    top: 98px;
+  }
+  #b01 {
+    top: 80px;
+  }
+  #b02 {
+    top: 78px;
+  }
+  #b03 {
+    top: 75px;
+  }
+  #b04 {
+    top: 75px;
+  }
+  #b04 span.sound-description {
+    width: 63%;
+    float: left;
+  }
+  #b05 {
+    top: 54px;
+  }
+  #b05 span.sound-description {
+    width: 65%;
+    float: left;
+  }
+  #b06 {
+    top: 7px;
+  }
+  #b06 span.sound-description {
+    width: 43%;
+    float: left;
+  }
 }
 @media only screen and (min-width: 768px) {
   .border-display {

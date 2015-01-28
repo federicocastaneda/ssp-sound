@@ -90,6 +90,21 @@
     transform: scale(1.2);
 }
 
+span.sound-decibel {
+	font-weight: 900;
+	font-size: 18px;
+	line-height: 18px;
+	padding-top: 5px;
+	color: #005495;
+	display: block;
+}
+
+span.sound-description {
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 18px;
+}
+
 .feature-sound-button {
 	display: block;
 	position: relative;
@@ -151,20 +166,51 @@
 		}
 }
 
-span.sound-decibel {
-	font-weight: 900;
-	font-size: 18px;
-	line-height: 18px;
-	padding-top: 5px;
-	color: #005495;
-	display: block;
+// Feature Sound Button positions for phones
+@media only screen and (max-width: 407px) {
+
+#b00 {
+	top: 98px;
 }
 
-span.sound-description {
-	font-weight: 300;
-	font-size: 16px;
-	line-height: 18px;
+#b01 {
+	top: 80px;
 }
+
+#b02 {
+	top: 78px;
+}
+
+#b03 {
+	top: 75px;
+}
+
+#b04 {
+	top: 75px;
+	span.sound-description {
+			width: 63%;
+			float: left;
+		}
+}
+
+#b05 {
+	top: 54px;
+	span.sound-description {
+			width: 65%;
+			float: left;
+		}
+}
+
+#b06 {
+	top: 7px;
+		span.sound-description {
+			width: 43%;
+			float: left;
+		}
+}
+
+}
+
 
 
 // Initial vertical and horizontal prototypes
