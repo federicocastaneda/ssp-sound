@@ -139,7 +139,7 @@ span.sound-description {
   width: 40%;
   float: left;
 }
-@media only screen and (max-width: 407px) {
+@media only screen and (min-width: 407px) {
   #b00 {
     top: 98px;
   }
