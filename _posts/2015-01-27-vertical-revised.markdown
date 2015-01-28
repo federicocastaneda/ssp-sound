@@ -15,7 +15,7 @@ Fusce eget libero urna. Nullam venenatis eget ligula vel scelerisque. Ut tristiq
 <div class="feature-sound">
  <div class="feature-wrapper">
  	<h1>Listen up</h1>
- 	<p>Natural and human-made noise comes in a variety of volumes. Here are some samples of sounds in their approximate decibel levels. Though the loudness will depend on the volume level of your speakers, the sounds are calibrated to each other.</p>
+ 	<p class="feature-sound-intro">Natural and human-made noise comes in a variety of volumes. Here are some samples of sounds in their approximate decibel levels. Though the loudness will depend on the volume level of your speakers, the sounds are calibrated to each other.</p>
  	
  	<p><em>Tap icons to hear sound clips</em></p>
  
