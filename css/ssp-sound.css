@@ -174,6 +174,41 @@ span.sound-description {
     float: left;
   }
 }
+@media only screen and (max-width: 385px) {
+  #b00 {
+    top: 80px;
+  }
+  #b01 {
+    top: 61px;
+  }
+  #b02 {
+    top: 60px;
+  }
+  #b03 {
+    top: 57px;
+  }
+  #b04 {
+    top: 55px;
+  }
+  #b04 span.sound-description {
+    width: 63%;
+    float: left;
+  }
+  #b05 {
+    top: 36px;
+  }
+  #b05 span.sound-description {
+    width: 65%;
+    float: left;
+  }
+  #b06 {
+    top: 7px;
+  }
+  #b06 span.sound-description {
+    width: 43%;
+    float: left;
+  }
+}
 @media only screen and (min-width: 768px) {
   .border-display {
     border: solid 1px blue;
