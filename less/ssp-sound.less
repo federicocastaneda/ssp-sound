@@ -212,7 +212,7 @@ span.sound-description {
 }
 
 
-// Feature-Sound Button positions for smaller phones
+// Feature-Sound Button positions for iPhone6 style phones
 @media only screen and (max-width: 385px) {
 
 #b00 {
@@ -257,6 +257,64 @@ span.sound-description {
 
 }
 
+
+// Feature-Sound Button positions for smaller phones like IPhone 5
+/* iPhone 5 Retina regardless of IOS version */
+@media (device-height : 568px) 
+   and (device-width : 320px) 
+   and (-webkit-min-device-pixel-ratio: 2)
+   and (orientation : portrait) {
+
+.feature-sound {
+	background-position: 25px 235px;
+}
+
+.feature-sound-button-image {
+	max-width: 40px;
+	max-height: 40px;
+}
+
+#b00 {
+	top: 97px;
+}
+
+#b01 {
+	top: 70px;
+}
+
+#b02 {
+	top: 70px;
+}
+
+#b03 {
+	top: 57px;
+}
+
+#b04 {
+	top: 60px;
+	span.sound-description {
+			width: 70%;
+			float: left;
+		}
+}
+
+#b05 {
+	top: 55px;
+	span.sound-description {
+			width: 65%;
+			float: left;
+		}
+}
+
+#b06 {
+	top: 5px;
+		span.sound-description {
+			width: 65%;
+			float: left;
+		}
+}
+
+}
 
 
 // Initial vertical and horizontal prototypes
