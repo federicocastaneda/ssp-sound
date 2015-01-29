@@ -10,6 +10,7 @@
   line-height: 32px;
   margin-top: 0px;
 }
+/* Feature-Sounds Styles */
 .feature-sound-intro {
   padding-bottom: 10px;
 }
@@ -126,7 +127,7 @@ span.sound-description {
   float: left;
 }
 #b05 {
-  top: 48px;
+  top: 53px;
 }
 #b05 span.sound-description {
   width: 65%;
